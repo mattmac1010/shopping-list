@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>store</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>40</order>
+        <record_id_field/>
+        <screen display_value="Details">f0473bb52fd23010c49a8d1df699b6ce</screen>
+        <screen_data_item_table>x_690392_shopping_shopping_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-01 00:22:52</sys_created_on>
+        <sys_id>fc473bb52fd23010c49a8d1df699b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store</sys_name>
+        <sys_package display_value="Shopping List" source="x_690392_shopping">df4537352fd23010c49a8d1df699b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">df4537352fd23010c49a8d1df699b67a</sys_scope>
+        <sys_update_name>sys_sg_screen_field_fc473bb52fd23010c49a8d1df699b6f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-01 00:22:52</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=fc473bb52fd23010c49a8d1df699b6f6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">df4537352fd23010c49a8d1df699b67a</application>
+        <file_path/>
+        <instance_id>c40ec73bdb7f93043353f22ebf96190b</instance_id>
+        <instance_name>dev70605</instance_name>
+        <name>sys_sg_screen_field_fc473bb52fd23010c49a8d1df699b6f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>store</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>40</order><record_id_field/><screen display_value="Details">f0473bb52fd23010c49a8d1df699b6ce</screen><screen_data_item_table>x_690392_shopping_shopping_item</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-01 00:22:52</sys_created_on><sys_id>fc473bb52fd23010c49a8d1df699b6f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>store</sys_name><sys_package display_value="Shopping List" source="x_690392_shopping">df4537352fd23010c49a8d1df699b67a</sys_package><sys_policy/><sys_scope display_value="Shopping List">df4537352fd23010c49a8d1df699b67a</sys_scope><sys_update_name>sys_sg_screen_field_fc473bb52fd23010c49a8d1df699b6f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-01 00:22:52</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=fc473bb52fd23010c49a8d1df699b6f6"/></record_update>]]></payload>
+        <payload_hash>1968002373</payload_hash>
+        <record_name>store</record_name>
+        <reverted_from/>
+        <source>d34537352fd23010c49a8d1df699b67d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-01 00:22:56</sys_created_on>
+        <sys_id>39477bb52fd23010c49a8d1df699b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b9ebcc4c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-01 00:22:56</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>b1477bb58ed23010e662d5e3ba424ab9</update_guid>
+        <update_guid_history>b1477bb58ed23010e662d5e3ba424ab9:1968002373</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-01 01:35:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>09842c54c52d43808197fc3f80119d51</sys_id>
+        <sys_metadata>fc473bb52fd23010c49a8d1df699b6f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store</sys_name>
+        <sys_package display_value="Shopping List" source="x_690392_shopping">df4537352fd23010c49a8d1df699b67a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">df4537352fd23010c49a8d1df699b67a</sys_scope>
+        <sys_scope_delete display_value="">4cce54f376144b00bbb13ad3ca1e4000</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_fc473bb52fd23010c49a8d1df699b6f6</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_fc473bb52fd23010c49a8d1df699b6f6">39477bb52fd23010c49a8d1df699b6b9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-01 01:35:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
